@@ -32,7 +32,7 @@ To set up Vong Hub, you need:
 1. **Download Vong Hub**:
    Clone the repository to your server:
    ```bash
-   git clone https://github.com/your-repo/vong-hub.git
+   git clone https://github.com/hci-vonghub/vong-hub.git
 
 Set Up Database:
 
